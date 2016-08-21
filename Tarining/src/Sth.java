@@ -28,6 +28,13 @@ public class Sth
 			System.out.println("korosh");
 			System.out.println("korosh");
 			
+			
+			
+			System.out.println("korosh");
+			System.out.println("korosh");
+			System.out.println("korosh");
+			System.out.println("korosh");
+			
 		
 		
 
