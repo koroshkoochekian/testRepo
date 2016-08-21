@@ -15,6 +15,7 @@ public class Sth
 			SuperEmployee a =new  SuperEmployee();
 			System.out.println(a.getSalary());
 			System.out.println(a.getSalary());
+			System.out.println(a.getSalary());
 			
 		
 		
