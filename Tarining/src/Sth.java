@@ -17,6 +17,11 @@ public class Sth
 			System.out.println(a.getSalary());
 			
 			
+			
+			
+			
+			
+			
 			System.out.println("korosh");
 			
 		
