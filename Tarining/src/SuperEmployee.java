@@ -10,5 +10,11 @@ public class SuperEmployee extends Employee{
 	{
 		return getHourpayment()*2;
 	}
+	
+	
+	public int a()
+	{
+		return 10;
+	}
 
 }
